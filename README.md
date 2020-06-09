@@ -1,6 +1,6 @@
-#GitHub Crawler
+# GitHub Crawler
 
-##How to use it
+## How to use it
 From the root folder, run
 
 *python -m src.main -i "inputfile" -o "outputfile"*
